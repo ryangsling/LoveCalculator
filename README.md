@@ -26,7 +26,7 @@ To use the LoveCalculator:
 2. Run the program in any Python environment.
 
 ```bash
-python love_calculator.py
+python main.py
 ```
 
 ## Contributions
